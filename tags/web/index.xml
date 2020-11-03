@@ -1,69 +1,60 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>web on Jam Polintan</title>
-    <link>https://jamvie.net/tags/web/</link>
-    <description>Recent content in web on Jam Polintan</description>
+    <title>Tags on Amine Elsassi</title>
+    <link>https://stuckforflow.github.io/tags/</link>
+    <description>Recent content in Tags on Amine Elsassi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CC Attribution-NonCommercial 4.0 International License</copyright>
     <lastBuildDate>Sun, 25 Oct 2020 22:34:34 -0600</lastBuildDate>
     
-	<atom:link href="https://jamvie.net/tags/web/index.xml" rel="self" type="application/rss+xml" />
+  <atom:link href="https://stuckforflow.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Hack.lu 2020: Confessions</title>
-      <link>https://jamvie.net/posts/2020/10/hack.lu-2020-confessions/</link>
+      <title>crypto</title>
+      <link>https://stuckforflow.github.io/tags/crypto/</link>
       <pubDate>Sun, 25 Oct 2020 22:34:34 -0600</pubDate>
       
-      <guid>https://jamvie.net/posts/2020/10/hack.lu-2020-confessions/</guid>
-      <description>This is a writeup for &amp;ldquo;Confessions&amp;rdquo;, the first web challenge I solved. I was luckily able to finish this challenge in a couple hours, so I could focus my attention to the other super interesting web problems. Confessions was a nice dive into some simple GraphQL manipulation and baby crypto.
-Let&amp;rsquo;s Begin! The confessions webpage was a message-generation application that would hash (in sha-256) your message based on the title and content of it.</description>
+      <guid>https://stuckforflow.github.io/tags/crypto/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>GoogleCTF 2020: Pasteurize</title>
-      <link>https://jamvie.net/posts/2020/08/googlectf-2020-pasteurize/</link>
-      <pubDate>Sun, 23 Aug 2020 17:35:14 -0600</pubDate>
+      <title>web</title>
+      <link>https://stuckforflow.github.io/tags/web/</link>
+      <pubDate>Sun, 25 Oct 2020 22:34:34 -0600</pubDate>
       
-      <guid>https://jamvie.net/posts/2020/08/googlectf-2020-pasteurize/</guid>
-      <description>This is the first challenge I worked on. I will soon upload a post on the second one. I completed this challenge with the help of my team mentor!
-Let&amp;rsquo;s Begin! The challenge lets us load into the DOM whatever we want through this pastebin-esque function. When you make a note, you have an option to share it with a &amp;ldquo;TjMike&amp;rdquo; Entity. Sign of XSS/CSRF attacks?
- My input, &amp;ldquo;uwu&amp;rdquo;, is shoved into a javascript string variable called &amp;lsquo;note&amp;rsquo;.</description>
+      <guid>https://stuckforflow.github.io/tags/web/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Cross-Site Request Forgery: Introduction</title>
-      <link>https://jamvie.net/posts/2020/07/cross-site-request-forgery-introduction/</link>
-      <pubDate>Mon, 27 Jul 2020 19:07:51 -0600</pubDate>
+      <title>writeups</title>
+      <link>https://stuckforflow.github.io/tags/writeups/</link>
+      <pubDate>Sun, 25 Oct 2020 22:34:34 -0600</pubDate>
       
-      <guid>https://jamvie.net/posts/2020/07/cross-site-request-forgery-introduction/</guid>
-      <description>Cross-Site Request Forgery is a common and prolific exploit that takes advantage of sessional cookies that browsers automatically allocate to HTTP requests - and they&amp;rsquo;re the reason you shouldn&amp;rsquo;t click suspicious links, even if the URL sort of sounds legitimate.
-This is a discussion on the importance of protecting against such attacks, and to demystify the unknowns that many people have about the exploit in general. I will be using my solution for two challenges I did in the past to help explain my points - the writeups for which you can consult here as well.</description>
+      <guid>https://stuckforflow.github.io/tags/writeups/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>RedPwnCTF 2020, Part 3</title>
-      <link>https://jamvie.net/posts/2020/07/redpwnctf-2020-part-3/</link>
-      <pubDate>Thu, 02 Jul 2020 01:56:16 -0600</pubDate>
+      <title>android</title>
+      <link>https://stuckforflow.github.io/tags/android/</link>
+      <pubDate>Sun, 04 Oct 2020 13:12:06 -0600</pubDate>
       
-      <guid>https://jamvie.net/posts/2020/07/redpwnctf-2020-part-3/</guid>
-      <description>Part 3 of my writeup series for RedPwnCTF 2020! I checked out the web challenge known as &amp;ldquo;Viper&amp;rdquo;.
-Let&amp;rsquo;s Begin! Snakes are my favourite animal. And now, you can easily create ASCII-text snakes with the handy services provided by RedPwn:
-When we create our viper, its name is its viperId, which is a UUID.
-The source code is available for us in this challenge as well. The main file, server.js, defines multiple endpoints - but the one that caught my eye immediately was GET /admin/create.</description>
+      <guid>https://stuckforflow.github.io/tags/android/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>RedPwnCTF 2020, part 2</title>
-      <link>https://jamvie.net/posts/2020/06/redpwnctf-2020-part-2/</link>
-      <pubDate>Sun, 28 Jun 2020 21:19:19 -0600</pubDate>
+      <title>OSINT</title>
+      <link>https://stuckforflow.github.io/tags/osint/</link>
+      <pubDate>Sun, 04 Oct 2020 13:12:06 -0600</pubDate>
       
-      <guid>https://jamvie.net/posts/2020/06/redpwnctf-2020-part-2/</guid>
-      <description>Part 2 of my writeup series for RedPwnCTF 2020!
-Let&amp;rsquo;s Begin! Tux-Fanpage  points: 464  Ignoring the 1990&amp;rsquo;s aesthetic of the page, observe the provided script:
-const express = require(&amp;#39;express&amp;#39;) const path = require(&amp;#39;path&amp;#39;) const app = express() //Don&amp;#39;t forget to redact from published source const flag = &amp;#39;[REDACTED]&amp;#39; app.get(&amp;#39;/&amp;#39;, (req, res) =&amp;gt; { res.redirect(&amp;#39;/page?path=index.html&amp;#39;) }) app.get(&amp;#39;/page&amp;#39;, (req, res) =&amp;gt; { let path = req.query.path //Handle queryless request  if(!</description>
+      <guid>https://stuckforflow.github.io/tags/osint/</guid>
+      <description></description>
     </item>
     
   </channel>
